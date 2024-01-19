@@ -45,5 +45,6 @@ void merge_sort(int *array, size_t size);
 void quick_sort(int *array, size_t size);
 void selection_sort(int *array, size_t size);
 void shell_sort(int *array, size_t size);
+void swap_ints(int *a, int *b);
 
 #endif
